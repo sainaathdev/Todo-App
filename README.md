@@ -22,7 +22,8 @@ Developed Todo App using HTML, CSS, JavaScript
 
 4. Persistence:
 • The app will store the todo list in the browser's local storage, so tasks remain even after the user closes the browser or refreshes the page.
-• When the user revisits the app, their to-do list will be restored from local storage.
+• When the user click the "Save" button the app will store todos in local storage.
+• User can save their desired Todos which they want to save and they can see them even after user closes or refreshers and when they come back user can see the saved todos.
 
 5. Count of Remaining Tasks:
 • When the user revisits the app, their to-do list will be restored from local storage.
